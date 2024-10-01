@@ -116,11 +116,23 @@ export const BaseArmorSets: ArmorSet[] = [
     name: "Navigator's Helm",
     helm: {armor: 16, weight: 7.6, bleed: -1, burn: -1, overload: 2, blight: -1, corrode: 3},
   }, {
+    name: "Nanoplated",
+    helm: {armor: 12.4, weight: 5, bleed: 2, burn: 1, overload: 0, blight: 2, corrode: 0},
+    chest: {armor: 29.6, weight: 12, bleed: 4, burn: 2, overload: 0, blight: 4, corrode: 0},
+    boot: {armor: 7.4, weight: 3, bleed: 1, burn: 1, overload: 0, blight: 1, corrode: 0},
+    glove: {armor: 10.9, weight: 4.5, bleed: 2, burn: 1, overload: 1, blight: 7, corrode: 0},
+  }, {
     name: "Nightstalker",
     helm: {armor: 10.9, weight: 4.5, bleed: 0, burn: 1, overload: 1, blight: 3, corrode: 0},
     chest: {armor: 43.6, weight: 18, bleed: 2, burn: 3, overload: 2, blight: 2, corrode: 0},
     boot: {armor: 21.8, weight: 9, bleed: 2, burn: 2, overload: 1, blight: 1, corrode: 0},
     glove: {armor: 10.9, weight: 4.5, bleed: 2, burn: 1, overload: 1, blight: 7, corrode: 0},
+  }, {
+    name: "Phetyr",
+    helm: {armor: 19.8, weight: 9.8, bleed: 3, burn: 3, overload: 3, blight: 5, corrode: 4},
+    chest: {armor: 80.6, weight: 39.9, bleed: 4, burn: 6, overload: 6, blight: 3, corrode: 2},
+    boot: {armor: 43.8, weight: 21.7, bleed: 2, burn: 2, overload: 3, blight: 2, corrode: 4},
+    glove: {armor: 17.4, weight: 8.6, bleed: 2, burn: 2, overload: 1, blight: 1, corrode: 2},
   }, {
     name: "Radiant",
     helm: {armor: 17.2, weight: 7.9, bleed: 1, burn: 1, overload: 3, blight: 1, corrode: 0},
